@@ -1,0 +1,4 @@
+src/typescript/node_modules
+src/typescript/wwwroot
+.vs/**
+*/**/*.user
